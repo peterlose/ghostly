@@ -1,7 +1,9 @@
 {
     "name": "ghostly",
     "version": "1.0.0",
+    "main": "",
     "ignore": [
-	    "README.MD"
+	    "README.MD",
+	    "bower.json"
     ]
 }
